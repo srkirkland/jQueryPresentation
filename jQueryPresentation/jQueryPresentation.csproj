@@ -77,10 +77,11 @@
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
     <Content Include="Images\bg-body.png" />
+    <Content Include="Images\WhosUsingjQuery.PNG" />
     <Content Include="Scripts\jquery.presentation-full.js" />
     <Content Include="Scripts\jquery.presentation.js" />
     <Content Include="Views\Home\3-WhatIsjQuery.ascx" />
-    <Content Include="Views\Home\Slide4.ascx" />
+    <Content Include="Views\Home\4-jQueryPopular.ascx" />
     <Content Include="Views\Home\2-Overview.ascx" />
     <Content Include="Views\Home\Index.aspx" />
     <Content Include="Views\Home\1-Intro.ascx" />
