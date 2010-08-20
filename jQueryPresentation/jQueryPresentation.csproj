@@ -99,6 +99,7 @@
     <Content Include="Views\Home\11-Selectors.ascx" />
     <Content Include="Views\Home\12-WrappedSet.ascx" />
     <Content Include="Views\Home\13-WrappedSet.ascx" />
+    <Content Include="Views\Home\14-WrappedSet.ascx" />
     <Content Include="Views\Home\Index.aspx" />
     <Content Include="Views\Home\1-Intro.ascx" />
     <Content Include="Web.config" />
