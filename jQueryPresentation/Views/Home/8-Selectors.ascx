@@ -1,8 +1,7 @@
 ﻿<%@ Control Language="C#" Inherits="System.Web.Mvc.ViewUserControl<dynamic>" %>
-<h2>Core jQuery: Selectors</h2>
-<p><br />Find some elements 
+<h2>By Element: <strong>$("div")</strong></h2>
+<p>
 </p>
-<ul>
-    <li>"$" is the jQuery token</li>
-	<li>Selectors are CSS3 Complient (even if your browser isn't)</li>
-</ul>	
+<a href="../../Images/DivSelectorHtml-div.PNG"><img src="../../Images/DivSelectorHtml-div.PNG" style=" width:20%; height:20%" alt="Lamp and Mates" /></a>
+<br />
+<hr />	

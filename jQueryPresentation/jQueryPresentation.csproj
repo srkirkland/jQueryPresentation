@@ -80,6 +80,7 @@
     <Content Include="Images\DivSelectorHtml.PNG" />
     <Content Include="Images\microsoftandjquery.png" />
     <Content Include="Images\WhosUsingjQuery.PNG" />
+    <Content Include="Scripts\jquery.imageZoom.js" />
     <Content Include="Scripts\jquery.presentation-full.js" />
     <Content Include="Scripts\jquery.presentation.js" />
     <Content Include="Views\Home\3-WhatIsjQuery.ascx" />
@@ -87,8 +88,10 @@
     <Content Include="Views\Home\2-Overview.ascx" />
     <Content Include="Views\Home\5-WhyjQuery.ascx" />
     <Content Include="Views\Home\6-Selectors.ascx" />
-    <Content Include="Views\Home\7-Selectors.ascx" />
+    <Content Include="Views\Home\9-Selectors.ascx" />
     <Content Include="Views\Home\8-Selectors.ascx" />
+    <Content Include="Views\Home\7-Selectors.ascx" />
+    <Content Include="Views\Home\10-Selectors.ascx" />
     <Content Include="Views\Home\Index.aspx" />
     <Content Include="Views\Home\1-Intro.ascx" />
     <Content Include="Web.config" />
