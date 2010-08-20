@@ -14,6 +14,10 @@ namespace jQueryPresentation.Models
             _slides.Enqueue("2-Overview");
             _slides.Enqueue("3-WhatIsjQuery");
             _slides.Enqueue("4-jQueryPopular");
+            _slides.Enqueue("5-WhyjQuery");
+            _slides.Enqueue("6-Selectors");
+            _slides.Enqueue("7-Selectors");
+            _slides.Enqueue("8-Selectors");
 
             return _slides;
         }
