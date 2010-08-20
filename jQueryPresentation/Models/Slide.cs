@@ -24,7 +24,8 @@ namespace jQueryPresentation.Models
             _slides.Enqueue("12-WrappedSet");
             _slides.Enqueue("13-WrappedSet");
             _slides.Enqueue("14-WrappedSet");
-
+            _slides.Enqueue("15-WrappedSet");
+            
             return _slides;
         }
     }
