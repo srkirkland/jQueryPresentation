@@ -20,6 +20,9 @@ namespace jQueryPresentation.Models
             _slides.Enqueue("8-Selectors");
             _slides.Enqueue("9-Selectors");
             _slides.Enqueue("10-Selectors");
+            _slides.Enqueue("11-Selectors");
+            _slides.Enqueue("12-WrappedSet");
+            _slides.Enqueue("13-WrappedSet");
 
             return _slides;
         }

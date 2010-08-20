@@ -77,6 +77,10 @@
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
     <Content Include="Images\bg-body.png" />
+    <Content Include="Images\DivSelectorHtml-class.PNG" />
+    <Content Include="Images\DivSelectorHtml-div.PNG" />
+    <Content Include="Images\DivSelectorHtml-fancy.PNG" />
+    <Content Include="Images\DivSelectorHtml-id.PNG" />
     <Content Include="Images\DivSelectorHtml.PNG" />
     <Content Include="Images\microsoftandjquery.png" />
     <Content Include="Images\WhosUsingjQuery.PNG" />
@@ -92,6 +96,9 @@
     <Content Include="Views\Home\8-Selectors.ascx" />
     <Content Include="Views\Home\7-Selectors.ascx" />
     <Content Include="Views\Home\10-Selectors.ascx" />
+    <Content Include="Views\Home\11-Selectors.ascx" />
+    <Content Include="Views\Home\12-WrappedSet.ascx" />
+    <Content Include="Views\Home\13-WrappedSet.ascx" />
     <Content Include="Views\Home\Index.aspx" />
     <Content Include="Views\Home\1-Intro.ascx" />
     <Content Include="Web.config" />
