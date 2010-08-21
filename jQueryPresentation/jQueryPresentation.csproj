@@ -67,6 +67,7 @@
   <ItemGroup>
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\LatinController.cs" />
+    <Compile Include="Controllers\WeatherController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -104,6 +105,8 @@
     <Content Include="Views\Home\15-WrappedSet.ascx" />
     <Content Include="Views\Home\16-WrappedSet.ascx" />
     <Content Include="Views\Home\17-Ajax.ascx" />
+    <Content Include="Views\Home\18-Ajax.ascx" />
+    <Content Include="Views\Home\19-Ajax.ascx" />
     <Content Include="Views\Home\Index.aspx" />
     <Content Include="Views\Home\1-Intro.ascx" />
     <Content Include="Views\Latin\Show.aspx" />
