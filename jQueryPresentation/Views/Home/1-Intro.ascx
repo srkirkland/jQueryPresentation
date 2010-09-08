@@ -3,4 +3,10 @@
 
 <br /><br />
 <p>
+UC Davis .NET User Group
+</p>
+<br /> 
+<br />
+<p>
+by Scott Kirkland
 </p>

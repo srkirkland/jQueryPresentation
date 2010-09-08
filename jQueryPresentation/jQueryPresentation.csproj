@@ -108,6 +108,8 @@
     <Content Include="Views\Home\18-Ajax.ascx" />
     <Content Include="Views\Home\19-Ajax.ascx" />
     <Content Include="Views\Home\20-Links.ascx" />
+    <Content Include="Views\Home\21-Bonus.ascx" />
+    <Content Include="Views\Home\22-Bonus.ascx" />
     <Content Include="Views\Home\Index.aspx" />
     <Content Include="Views\Home\1-Intro.ascx" />
     <Content Include="Views\Latin\Show.aspx" />
