@@ -32,6 +32,7 @@ namespace jQueryPresentation.Models
             _slides.Enqueue("20-Links");
             _slides.Enqueue("21-Bonus");
             _slides.Enqueue("22-Bonus");
+            _slides.Enqueue("23-Bonus");
             
             return _slides;
         }

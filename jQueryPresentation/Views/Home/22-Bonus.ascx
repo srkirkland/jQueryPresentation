@@ -8,6 +8,10 @@
 <pre><code class="example">$("&lt;div/&gt;", {
   id : "div-example",
   "class": "test",
+  css : {
+    height: "50px",
+    width: "50px"
+  },
   text: "Click me!",
   click: function(){
     $(this).toggleClass("test");
