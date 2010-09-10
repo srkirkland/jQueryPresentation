@@ -15,11 +15,12 @@
 </script>
 
 <h2>Live Events</h2>
+<p>Attach a handler to the event for all elements which match the current selector, now or in the future.
+</p>
 <p>
     <pre>
         $(".details").live('click', function () {
             $("#txt").slideToggle("slow");
-            return false;
         });
     </pre>
 </p>
