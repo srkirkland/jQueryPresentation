@@ -2,6 +2,6 @@
 
 <h2>Our Selector Example</h2>
 <p></p>
-<a href="../../Images/DivSelectorHtml.PNG"><img src="../../Images/DivSelectorHtml.PNG" style=" width:20%; height:20%" alt="Lamp and Mates" /></a>
+<a href="<%: Url.Content("~/Images/DivSelectorHtml.PNG") %>"><img src="<%: Url.Content("~/Images/DivSelectorHtml.PNG") %>" style=" width:20%; height:20%" alt="Lamp and Mates" /></a>
 <br />
 <hr />

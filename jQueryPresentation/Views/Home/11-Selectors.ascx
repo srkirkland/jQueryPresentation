@@ -3,7 +3,7 @@
 <h2>A little fancier: <strong>$("div > p:odd")</strong></h2>
 <p>
 </p>
-<a href="../../Images/DivSelectorHtml-fancy.PNG"><img src="../../Images/DivSelectorHtml-fancy.PNG" style=" width:20%; height:20%" alt="Lamp and Mates" /></a>
+<a href="<%: Url.Content("~/Images/DivSelectorHtml-fancy.PNG") %>"><img src="<%: Url.Content("~/Images/DivSelectorHtml-fancy.PNG") %>" style=" width:20%; height:20%" alt="Lamp and Mates" /></a>
 <br />
 <hr />
 <ul>
