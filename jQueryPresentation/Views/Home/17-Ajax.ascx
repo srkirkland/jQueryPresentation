@@ -4,7 +4,7 @@
     $(function () {
 
         $("#load-latin").click(function () {
-            $("#ajax-result").load("/latin/show");
+            $("#ajax-result").load("<%: Url.Action("Show", "Latin") %>");
             return false;
         });
 
@@ -18,7 +18,7 @@
 <ul>
     <li>$.load() is the simplest Ajax method -- It will load data from the server and place the returned HTML into the matched element</li>
     <li>
-        $("#ajax-result").load("/latin/show");
+        $("#ajax-result").load("<%: Url.Action("Show", "Latin") %>");
     </li>
 </ul>
 <p>

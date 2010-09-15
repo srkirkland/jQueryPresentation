@@ -4,7 +4,7 @@
     $(function () {
         $("#advanced-ajax").click(function () {
             $.post(
-                '/weather/show', //url
+                '<%: Url.Action("Show", "Weather") %>', //url
                 {'zip': '95616', 'day': 'tuesday' }, //JSON data to send
                 function (data) { //what to do on success
                     alert(GetTemperatureReading(data));
@@ -27,7 +27,7 @@
 </p>
 <pre>
 $.post(
-    '/weather/show', //url
+    '<%: Url.Action("Show", "Weather") %>', //url
     {'zip': '95616', 'day': 'tuesday' }, //JSON data to send
     function (data) { //what to do on success
         alert(GetTemperatureReading(data));
