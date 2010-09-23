@@ -12,10 +12,10 @@
 <p></p>
 
 <ul>
-    <li>jQuery comes preloaded with: 
-        <br /><span id="fade-toggle">fadeIn/Out</span>
+    <li>jQuery comes preloaded with (click to see effect): 
+        <br /><span id="fade-toggle">fadeOut/In</span>
         <br /><span id="hide-show">hide/show</span>
-        <br /><span id="slide-toggle">slideDown/Up</span>
+        <br /><span id="slide-toggle">slideUp/Down</span>
     </li>
     <li>Custom animation available, with easing built in</li>
     <li>jQuery UI (an official plugin) available at <a href="http://jqueryui.com/demos/effect/" target="_blank">http://jqueryui.com/</a></li>
