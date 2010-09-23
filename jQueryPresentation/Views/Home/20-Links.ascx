@@ -9,5 +9,5 @@
     <li><a href="http://www.manning.com/bibeault/">jQuery in Action: http://www.manning.com/bibeault/</a></li>
 </ul>
 <p>
-    <img src="http://www.manning.com/bibeault2/bibeault2_cover150.jpg" alt="jQuery in Action cover" />
+    <img src="<%: Url.Content("~/Images/bibeault2_cover150.jpg") %>" alt="jQuery in Action cover" />
 </p>

@@ -10,7 +10,7 @@ namespace jQueryPresentation.Controllers
     {
         //
         // GET: /Home/
-
+        [OutputCache(Duration = 60, VaryByParam="none")]
         public ActionResult Index()
         {
             return View();

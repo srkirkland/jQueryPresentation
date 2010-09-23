@@ -79,6 +79,7 @@
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
     <Content Include="Images\bg-body.png" />
+    <Content Include="Images\bibeault2_cover150.jpg" />
     <Content Include="Images\DivSelectorHtml-class.PNG" />
     <Content Include="Images\DivSelectorHtml-div.PNG" />
     <Content Include="Images\DivSelectorHtml-fancy.PNG" />

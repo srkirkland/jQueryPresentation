@@ -24,7 +24,7 @@ blockquote, q {	quotes: "" ""; }
 
 /* @group =base */
 body {
-  background: #1a1f1e url(../images/structure/bg-body.png);
+  background: #1a1f1e url(../Images/bg-body.png);
   color: #e3dfba;
 	font: 24px/36px Helvetica, Arial, Sans-Serif;
 }

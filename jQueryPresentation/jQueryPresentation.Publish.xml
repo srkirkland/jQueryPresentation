@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="\\hughman\wwwroot\jQueryPresentation" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Test" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Views/Home/17-Ajax.ascx" publishTime="09/15/2010 14:07:24" />
+    <file relUrl="Views/Home/Index.aspx" publishTime="08/30/2010 09:45:09" />
+    <file relUrl="Views/Home/4-jQueryPopular.ascx" publishTime="08/19/2010 16:56:00" />
+    <file relUrl="Views/Home/11-Selectors.ascx" publishTime="09/23/2010 11:37:01" />
+    <file relUrl="Scripts/MicrosoftAjax.debug.js" publishTime="08/19/2010 15:41:25" />
+    <file relUrl="Scripts/MicrosoftAjax.js" publishTime="08/19/2010 15:41:25" />
+    <file relUrl="Views/Home/9-Selectors.ascx" publishTime="09/23/2010 11:36:48" />
+    <file relUrl="Global.asax" publishTime="08/19/2010 15:41:25" />
+    <file relUrl="Views/Home/18-Ajax.ascx" publishTime="08/20/2010 17:44:16" />
+    <file relUrl="Scripts/jquery.validate-vsdoc.js" publishTime="08/19/2010 15:41:25" />
+    <file relUrl="Views/Home/13-WrappedSet.ascx" publishTime="08/20/2010 09:40:55" />
+    <file relUrl="Views/Home/5-WhyjQuery.ascx" publishTime="08/19/2010 17:05:37" />
+    <file relUrl="Images/DivSelectorHtml-class.PNG" publishTime="08/19/2010 18:13:00" />
+    <file relUrl="Views/Home/6-Selectors.ascx" publishTime="08/19/2010 18:06:15" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="08/19/2010 15:41:25" />
+    <file relUrl="Scripts/MicrosoftMvcAjax.debug.js" publishTime="08/19/2010 15:41:25" />
+    <file relUrl="Scripts/MicrosoftMvcValidation.debug.js" publishTime="08/19/2010 15:41:25" />
+    <file relUrl="Views/Home/19-Ajax.ascx" publishTime="09/15/2010 14:09:16" />
+    <file relUrl="Images/bg-body.png" publishTime="08/19/2010 15:42:46" />
+    <file relUrl="bin/jQueryPresentation.dll" publishTime="09/10/2010 09:05:41" />
+    <file relUrl="Views/Home/23-Bonus.ascx" publishTime="09/15/2010 13:59:22" />
+    <file relUrl="Scripts/jquery.validate.min.js" publishTime="08/19/2010 15:41:25" />
+    <file relUrl="Images/DivSelectorHtml-fancy.PNG" publishTime="08/20/2010 09:09:52" />
+    <file relUrl="Views/Home/22-Bonus.ascx" publishTime="09/14/2010 10:31:04" />
+    <file relUrl="Scripts/jquery.presentation.js" publishTime="08/19/2010 15:43:00" />
+    <file relUrl="Views/Home/20-Links.ascx" publishTime="08/25/2010 10:09:30" />
+    <file relUrl="Views/Home/16-WrappedSet.ascx" publishTime="09/23/2010 11:39:56" />
+    <file relUrl="Scripts/jquery.validate.js" publishTime="08/19/2010 15:41:25" />
+    <file relUrl="Views/Home/21-Bonus.ascx" publishTime="09/08/2010 10:39:47" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="08/19/2010 15:41:25" />
+    <file relUrl="Images/microsoftandjquery.png" publishTime="08/19/2010 16:53:25" />
+    <file relUrl="Scripts/MicrosoftMvcValidation.js" publishTime="08/19/2010 15:41:25" />
+    <file relUrl="Views/Home/3-WhatIsjQuery.ascx" publishTime="08/19/2010 16:43:21" />
+    <file relUrl="Images/DivSelectorHtml.PNG" publishTime="08/19/2010 17:57:57" />
+    <file relUrl="Scripts/MicrosoftMvcAjax.js" publishTime="08/19/2010 15:41:25" />
+    <file relUrl="Views/Home/1-Intro.ascx" publishTime="09/08/2010 09:41:57" />
+    <file relUrl="Views/Shared/Site.Master" publishTime="08/30/2010 09:41:56" />
+    <file relUrl="Images/DivSelectorHtml-div.PNG" publishTime="08/19/2010 18:05:48" />
+    <file relUrl="Views/Home/8-Selectors.ascx" publishTime="09/23/2010 11:36:44" />
+    <file relUrl="Views/Home/7-Selectors.ascx" publishTime="09/23/2010 11:34:36" />
+    <file relUrl="Scripts/jquery.imageZoom.js" publishTime="08/19/2010 17:29:42" />
+    <file relUrl="Views/Home/15-WrappedSet.ascx" publishTime="08/20/2010 10:03:40" />
+    <file relUrl="Images/WhosUsingjQuery.PNG" publishTime="08/19/2010 16:48:11" />
+    <file relUrl="Views/Home/2-Overview.ascx" publishTime="08/19/2010 16:58:37" />
+    <file relUrl="Web.config" publishTime="09/15/2010 13:59:27" />
+    <file relUrl="Views/Home/12-WrappedSet.ascx" publishTime="08/20/2010 09:28:45" />
+    <file relUrl="Content/Site.css" publishTime="08/19/2010 15:41:25" />
+    <file relUrl="Images/DivSelectorHtml-id.PNG" publishTime="08/19/2010 18:06:09" />
+    <file relUrl="Views/Home/14-WrappedSet.ascx" publishTime="09/10/2010 09:23:16" />
+    <file relUrl="Views/Latin/Show.aspx" publishTime="08/20/2010 17:01:44" />
+    <file relUrl="Views/Home/10-Selectors.ascx" publishTime="09/23/2010 11:36:54" />
+    <file relUrl="bin/jQueryPresentation.pdb" publishTime="09/10/2010 09:05:41" />
+    <file relUrl="Content/screen.css" publishTime="08/19/2010 15:43:17" />
+    <file relUrl="Views/Web.config" publishTime="08/19/2010 15:41:25" />
+    <file relUrl="Scripts/jquery.presentation-full.js" publishTime="08/19/2010 15:43:04" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="08/19/2010 15:41:25" />
+  </publishProfile>
+</publishData>
